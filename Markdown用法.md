@@ -225,7 +225,7 @@
 > ```python
 > # 打印msg内容
 > def hello(msg):
->     print(msg)
+>    	print(msg)
 > ```
 >
 > ```c++
@@ -269,7 +269,7 @@
 
 > 示例：
 >
-> ![](C:\Users\22160\Pictures\Screenshots\屏幕截图 2023-06-18 171225.png)
+> ![](https://gd-hbimg.huaban.com/8cc11445d17289089891cf2b2e7dc2531ba447c6dcc0-HNC5S8_fw658webp)
 
 > 快捷键：Ctrl+Shift+I
 
